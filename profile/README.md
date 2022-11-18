@@ -12,4 +12,11 @@ Szkolna Biblioteka Cyfrowa umożliwia:
 ![Urządzenia ze stroną internetową SBC](https://imgur.com/JjGUrWH.png)
 -
 ![Wyszukiwarka](https://imgur.com/bI5eeWQ.png)
-W razie pytań, jestem w stanie udzielić odpowiedź: webhost@szkolnabibliotekacyfrowa.pl
+
+Autorzy strony:
+
+ - Marcin Kusaj (MARKUSA19)
+ - Dominik Dąbrowski (DeDe2004)
+ - Piotr Kacprzycki (Pietrox123)
+
+W razie pytań, jesteśmy w stanie udzielić odpowiedzi pod podanym adresem e-mail: webhost@szkolnabibliotekacyfrowa.pl
